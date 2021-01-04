@@ -3,10 +3,22 @@
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/002301/vue3-touch"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "vue3",
+    "touchUp",
+    "touchDown",
+    "touchLeft",
+    "touchRight",
+    "touch"
+  ],
+  "author": "maning",
+  "license": "ISC",
+  "homepage": "https://github.com/002301/vue3-touch"
 }
